@@ -16,3 +16,5 @@ Atividade 1: Trello
 
 
 
+# Atividade do bussines model canva
+-[miro](https://miro.com/app/board/uXjVKFpyvmc=/?share_link_id=536069724515)
