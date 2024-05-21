@@ -28,3 +28,6 @@ Atividade 2: Trello
 
   Atividade de bussines model canva
   -[Miro](https://miro.com/app/board/uXjVKFpyvmc=/?share_link_id=536069724515)
+
+Atividade de emprego dos sonhos
+-[link do doc](https://docs.google.com/document/d/16kxIdB1ax_QKCeAg1sIHfqy_zNFxtOjiBr9baJRe8KI/edit?usp=sharing)
