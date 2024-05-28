@@ -31,3 +31,7 @@ Atividade 2: Trello
 
 Atividade de emprego dos sonhos
 -[link do doc](https://docs.google.com/document/d/16kxIdB1ax_QKCeAg1sIHfqy_zNFxtOjiBr9baJRe8KI/edit?usp=sharing)
+
+
+Atividade do grafico de gantt
+-[link do gráfico](https://docs.google.com/spreadsheets/d/1ewqQmUoS09z-dSF6Pn1uhlkEblI-ztx5bs8cDV_n3d8/edit?usp=sharing).
